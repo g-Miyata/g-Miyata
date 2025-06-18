@@ -28,7 +28,7 @@
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-Miyata&theme=gotham&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-Miyata&theme=gotham)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-Miyata&include_all_commits=false&count_private=true&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-Miyata&include_all_commits=false&count_private=true&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
   <div align="center" >
@@ -41,11 +41,10 @@
 # 📊 GitHub Stats:
 
 <div align='center'>
-  
-![](https://github-readme-stats.vercel.app/api?username=g-Miyata&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=g-Miyata&theme=noctis_minimus&hide_border=false)
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=g-Miyata&theme=gotham) | ![](https://nirzak-streak-stats.vercel.app/?user=g-Miyata&theme=noctis_minimus&hide_border=false) |  
+ | ----------- | ----------- |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-Miyata&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-Miyata&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
