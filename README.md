@@ -28,7 +28,7 @@
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-Miyata&include_all_commits=false&count_private=true&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-Miyata&include_all_commits=false&count_private=true&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=g-Miyata&include_all_commits=false&count_private=true&theme=github_dark&utcOffset=-3)](https://github.com/g-Miyata/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=g-Miyata&include_all_commits=false&count_private=true&theme=github_dark)](https://github.com/g-Miyata/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
   <div align="center" >
@@ -42,9 +42,14 @@
 
 <div align='center'>
 
- | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=g-Miyata&theme=gotham) | ![](https://nirzak-streak-stats.vercel.app/?user=g-Miyata&theme=noctis_minimus&hide_border=false) |  
+ | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-Miyata&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact) | ![](https://nirzak-streak-stats.vercel.app/?user=g-Miyata&theme=gotham&include_all_commits=false&count_private=true&layout=compact&hide_border=true) | 
  | ----------- | ----------- |
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=g-Miyata&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=g-Miyata&theme=gotham&include_all_commits=false&count_private=true&layout=compact&hide_border=true)
+
+ 
+
+ 
+
 
 </div>
