@@ -31,7 +31,14 @@
 
 ## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g-miyata) 
-[![Portfólio](https://www.g-miyata.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMiyata_inverted.37cfeea7.png&w=256&q=100)](https://www.g-miyata.com) 
+
+<div align="center">
+  <a href="https://www.g-miyata.com" target="_blank">
+    <img src="https://www.g-miyata.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FMiyata_inverted.37cfeea7.png&w=256&q=100" alt="Portfólio" width="150"/>
+    <br>
+    <strong>🌐 Acesse meu Portfólio</strong>
+  </a>
+</div>
 
 # 📊 GitHub Stats:
 
